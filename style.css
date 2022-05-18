@@ -1,0 +1,17 @@
+.sri h1{
+    /* align-items: center; */
+    font-size: 35px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #03529a;
+}
+body{
+    background-image: url("https://i.pinimg.com/originals/85/52/f8/8552f811e95b998d9505c43a9828c6d6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hari{
+    border-radius: 50px;
+}
+.csk{
+    padding-left: 120px;
+}
